@@ -1,8 +1,0 @@
-1. Function to convert regexes to sets of trigram sets. Should be able to handle * operator and otherwise multiplex 
-a single regex into multiple
-
-2. Function to collect regexes by intersection. Could be done brute force or could use shingling
-
-3. Function to construct tree of regex pools based on intersection
-
-4. Function to construct k pools of regexes
